@@ -1,0 +1,27 @@
+.container {
+    max-width: 700px;
+    margin: 70px auto;
+    text-align: center;
+}
+
+#weather-info {
+    margin-top: 30px;
+}
+body{
+    background-color: rgb(137, 211, 221);
+}   
+#weather-output {
+    margin-top: 30px;
+}
+h1{
+    font-size: 50px;
+    padding-bottom: 20px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#city-input{
+    font-size: 17px;
+}
+button{
+    color: black;
+    font-size: 15px;
+}
